@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MMIS\\01 - CURSOS\\Udemy\\C#\\Seção 9\\HerancaPolimormismo\\HerancaPolimormismo\\HerancaPolimormismo.csproj": {}
+    "C:\\MMIS\\01 - CURSOS\\Udemy\\C#\\Seção 10\\HerancaPolimorfismo\\HerancaPolimorfismo\\HerancaPolimorfismo.csproj": {}
   },
   "projects": {
-    "C:\\MMIS\\01 - CURSOS\\Udemy\\C#\\Seção 9\\HerancaPolimormismo\\HerancaPolimormismo\\HerancaPolimormismo.csproj": {
+    "C:\\MMIS\\01 - CURSOS\\Udemy\\C#\\Seção 10\\HerancaPolimorfismo\\HerancaPolimorfismo\\HerancaPolimorfismo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MMIS\\01 - CURSOS\\Udemy\\C#\\Seção 9\\HerancaPolimormismo\\HerancaPolimormismo\\HerancaPolimormismo.csproj",
-        "projectName": "HerancaPolimormismo",
-        "projectPath": "C:\\MMIS\\01 - CURSOS\\Udemy\\C#\\Seção 9\\HerancaPolimormismo\\HerancaPolimormismo\\HerancaPolimormismo.csproj",
+        "projectUniqueName": "C:\\MMIS\\01 - CURSOS\\Udemy\\C#\\Seção 10\\HerancaPolimorfismo\\HerancaPolimorfismo\\HerancaPolimorfismo.csproj",
+        "projectName": "HerancaPolimorfismo",
+        "projectPath": "C:\\MMIS\\01 - CURSOS\\Udemy\\C#\\Seção 10\\HerancaPolimorfismo\\HerancaPolimorfismo\\HerancaPolimorfismo.csproj",
         "packagesPath": "C:\\Users\\igort\\.nuget\\packages\\",
-        "outputPath": "C:\\MMIS\\01 - CURSOS\\Udemy\\C#\\Seção 9\\HerancaPolimormismo\\HerancaPolimormismo\\obj\\",
+        "outputPath": "C:\\MMIS\\01 - CURSOS\\Udemy\\C#\\Seção 10\\HerancaPolimorfismo\\HerancaPolimorfismo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
